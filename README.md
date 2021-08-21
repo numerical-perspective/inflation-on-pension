@@ -8,9 +8,9 @@ After you copied the text there press `ctrl` + `enter`. That should run the func
 
 To change the parameters of the function follow the following guidelines:
 
-`pension(**starting_salary**, **working_experience**, **salary_increase_per_year**, **inflation_rate**)`
+`pension(starting_salary, working_experience, salary_increase_per_year, inflation_rate)`
 
-## Example##  
+## Example
 
 pension(5000, 40, 0.01, 0.02);
 
